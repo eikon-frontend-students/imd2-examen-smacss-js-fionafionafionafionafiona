@@ -22,3 +22,16 @@ video {
   display: block;
   max-width: 100%;
 }
+
+body {
+  font-family: "Francois One", sans-serif;
+  font-size: 18px;
+  color: var(--dark-blue);
+}
+
+h1,
+h2 {
+  font-size: 60px;
+  font-weight: 400;
+  padding-bottom: 20px;
+}
